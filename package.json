@@ -1,0 +1,13 @@
+{
+  "name": "file-manager",
+  "description": "Implementation for the \"File Manager\" assignment in the NodeJS 2024 Q3 course provided by RS School",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "repository": "https://github.com/Dostonlv/file-manager.git",
+  "author": "Doston Nematov <Dostonlv>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
