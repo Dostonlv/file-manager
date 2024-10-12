@@ -27,7 +27,7 @@ The file manager is be able to do the following:
 npm run start -- --username=your_username
 ```
 
-- [-] After starting the program displays the following text in the console (`Username` is equal to value that was passed on application start in `--username` CLI argument)  
+- [x] After starting the program displays the following text in the console (`Username` is equal to value that was passed on application start in `--username` CLI argument)  
        `Welcome to the File Manager, Username!`
 - [-] After program work finished (`ctrl + c` pressed or user sent `.exit` command into console) the program displays the following text in the console  
        `Thank you for using File Manager, Username, goodbye!`

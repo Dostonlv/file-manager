@@ -7,7 +7,7 @@
   "repository": "https://github.com/Dostonlv/file-manager.git",
   "author": "Doston Nematov <Dostonlv>",
   "license": "MIT",
-  "scripts": {
-    "start": "node ."
-  }
+ "scripts": {
+  "start": "node src/index.js"
+}
 }
